@@ -1,5 +1,5 @@
 {
-  "name": "lumpjs",
+  "name": "meld",
   "version": "0.0.1",
   "description": "Packages md files to create a catalog",
   "main": "index.js",
